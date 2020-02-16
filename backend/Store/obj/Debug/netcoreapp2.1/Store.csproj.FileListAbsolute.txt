@@ -1,0 +1,14 @@
+C:\Users\natan\source\repos\Store\Store\bin\Debug\netcoreapp2.1\Store.deps.json
+C:\Users\natan\source\repos\Store\Store\bin\Debug\netcoreapp2.1\Store.runtimeconfig.json
+C:\Users\natan\source\repos\Store\Store\bin\Debug\netcoreapp2.1\Store.runtimeconfig.dev.json
+C:\Users\natan\source\repos\Store\Store\bin\Debug\netcoreapp2.1\Store.dll
+C:\Users\natan\source\repos\Store\Store\bin\Debug\netcoreapp2.1\Store.pdb
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.csprojAssemblyReference.cache
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.csproj.CoreCompileInputs.cache
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.RazorAssemblyInfo.cache
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.RazorAssemblyInfo.cs
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.AssemblyInfoInputs.cache
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.AssemblyInfo.cs
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.RazorTargetAssemblyInfo.cache
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.dll
+C:\Users\natan\source\repos\Store\Store\obj\Debug\netcoreapp2.1\Store.pdb
